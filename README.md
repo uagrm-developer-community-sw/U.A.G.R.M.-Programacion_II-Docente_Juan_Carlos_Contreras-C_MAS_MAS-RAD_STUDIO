@@ -1,6 +1,12 @@
 ﻿# U.A.G.R.M.-Programacion_II-Docente_Juan_Carlos_Contreras-C_MAS_MAS-RAD_STUDIO
 U.A.G.R.M. | Materia: Programacion II | Docente: Juan Carlos Contreras | Lenguaje: C++ | IDE: Builder - Rad Studio 10.3 (Rio  Architect)
 
+# Universidad Autónoma “Gabriel rené moreno”
+# FACULTAD DE ingeniería en
+# CIENCIAS de la computación y telecomunicaciones
+# Carreras de Ingeniería Informática, Sistemas y Redes & Telecomunicaciones
+# Práctico #1 INF210 Gestión 1-2020
+
 # TEMA: Recursión
 
 a) Números:
@@ -75,31 +81,31 @@ Escribir proceso para cargar matrices de las siguientes formas:
 9 8 7 6  <br>
 5 4 3 2 1 <br>
 
-2. Amxm
-1
-2 6
-3 7 10
-4 8 11 13
-5 9 12 14 15
+2. Amxm <br>
+1 <br>
+2 6 <br>
+3 7 10 <br>
+4 8 11 13 <br>
+5 9 12 14 15 <br>
 
-3. Amxn
-1 10 11 20
-2 9 12 19
-3 8 13 18
-4 7 14 17
-5 6 15 16
+3. Amxn <br>
+1 10 11 20 <br>
+2 9 12 19 <br>
+3 8 13 18 <br>
+4 7 14 17 <br>
+5 6 15 16 <br>
 
-4. Amxm
-15 8 1 24 17
-16 14 7 5 23
-22 20 13 6 4
-3 21 19 12 10
-9 2 25 18 11
-Cuadrado mágico
+4. Amxm <br>
+15 8 1 24 17 <br>
+16 14 7 5 23 <br>
+22 20 13 6 4 <br>
+3 21 19 12 10 <br>
+9 2 25 18 11 <br>
+Cuadrado mágico <br>
 
-5. Amxm
-5 4 3 2 1
-4 4 3 2 1
-3 3 3 2 1
-2 2 2 2 1
-1 1 1 1 1
+5. Amxm <br>
+5 4 3 2 1 <br>
+4 4 3 2 1 <br>
+3 3 3 2 1 <br>
+2 2 2 2 1 <br>
+1 1 1 1 1 <br>
