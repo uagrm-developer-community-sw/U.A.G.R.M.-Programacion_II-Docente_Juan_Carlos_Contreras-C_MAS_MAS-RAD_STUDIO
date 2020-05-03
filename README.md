@@ -2,10 +2,10 @@
 U.A.G.R.M. | Materia: Programacion II | Docente: Juan Carlos Contreras | Lenguaje: C++ | IDE: Builder - Rad Studio 10.3 (Rio  Architect)
 
 # Universidad Autónoma “Gabriel rené moreno”
-# FACULTAD DE ingeniería en
-# CIENCIAS de la computación y telecomunicaciones
-# Carreras de Ingeniería Informática, Sistemas y Redes & Telecomunicaciones
-# Práctico #1 INF210 Gestión 1-2020
+. FACULTAD DE ingeniería en
+. CIENCIAS de la computación y telecomunicaciones
+. Carreras de Ingeniería Informática, Sistemas y Redes & Telecomunicaciones
+. Práctico #1 INF210 Gestión 1-2020
 
 # TEMA: Recursión
 
