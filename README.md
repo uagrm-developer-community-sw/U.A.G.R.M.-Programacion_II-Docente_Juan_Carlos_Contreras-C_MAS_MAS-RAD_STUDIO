@@ -68,12 +68,12 @@ Ej. v[2,5,65,23,45,2,13,45] Invetir (v, 2, 6) ➔ v[2,5, 13, 2, 45, 23, 65, 45]
 e) Matrices
 Escribir proceso para cargar matrices de las siguientes formas:
 
-1. Amxm
-15
-14 13
-12 11 10
-9 8 7 6
-5 4 3 2 1
+1. Amxm <br>
+15 <br>
+14 13 <br>
+12 11 10 <br>
+9 8 7 6  <br>
+5 4 3 2 1 <br>
 
 2. Amxm
 1
