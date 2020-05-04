@@ -109,3 +109,6 @@ Cuadrado mágico <br>
 3 3 3 2 1 <br>
 2 2 2 2 1 <br>
 1 1 1 1 1 <br>
+
+#IMAGENES:
+![Formulario Principal](https://user-images.githubusercontent.com/36086876/80933124-49bab000-8d90-11ea-9cab-23f47d777b20.png)

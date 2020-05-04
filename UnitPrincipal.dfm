@@ -6451,6 +6451,7 @@ object FormPrincipal: TFormPrincipal
       ParentFont = False
       Style = bsSplitButton
       TabOrder = 0
+      OnClick = BtnNumerosClick
     end
     object BtnSeries: TButton
       Left = 20
