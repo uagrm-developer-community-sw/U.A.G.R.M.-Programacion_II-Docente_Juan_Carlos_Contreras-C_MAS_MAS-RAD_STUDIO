@@ -1,6 +1,10 @@
 ﻿# U.A.G.R.M.-Programacion_II-Docente_Juan_Carlos_Contreras-C_MAS_MAS-RAD_STUDIO
 U.A.G.R.M. | Materia: Programacion II | Docente: Juan Carlos Contreras | Lenguaje: C++ | IDE: Builder - Rad Studio 10.3 (Rio  Architect)
 
+# REPOSITORY U.A.G.R.M.
+![repository-open-graph-template UAGRM](https://user-images.githubusercontent.com/36086876/80933352-57bd0080-8d91-11ea-927f-8700b1a2c52b.png)
+
+
 # Universidad Autónoma “Gabriel rené moreno”
 . FACULTAD DE ingeniería en <br>
 . CIENCIAS de la computación y telecomunicaciones <br>
@@ -110,5 +114,7 @@ Cuadrado mágico <br>
 2 2 2 2 1 <br>
 1 1 1 1 1 <br>
 
-#IMAGENES:
+# IMAGENES:
+
 ![Formulario Principal](https://user-images.githubusercontent.com/36086876/80933124-49bab000-8d90-11ea-9cab-23f47d777b20.png)
+![Numeros Enteros](https://user-images.githubusercontent.com/36086876/80933298-1e849080-8d91-11ea-9dd2-37d031acb2c1.png)
